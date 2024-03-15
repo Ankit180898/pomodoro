@@ -35,7 +35,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   height: MediaQuery.of(context).size.height * 0.60,
                   width: MediaQuery.of(context).size.height * 0.40,
                   startTime: now,
-                  digitColor: Colors.white,
+                  digitColor: Colors.white60,
                   backgroundColor: const Color(0xff07101a),
                   digitSize: MediaQuery.of(context).size.height * 0.50,
                   centerGapSpace: 5.0,
