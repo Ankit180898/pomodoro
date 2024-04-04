@@ -1,16 +1,27 @@
-# pomodoro
+## Pomodoro
+   I created a clock app inspired by the Fliqlo style, utilizing the flip_panel_plus plugin with 
+   significant modifications to achieve the desired appearance and functionality.
 
-A new Flutter project.
+## Overview
+  The app mimics the classic flip-style clock design, offering a sleek and minimalist interface. 
+  It provides a unique and nostalgic way to view the time, reminiscent of the popular Fliqlo screensaver.
 
-## Getting Started
+## Features
+  Fliqlo Style: The app replicates the iconic flip-style clock design seen in Fliqlo screensavers.
+  Customization: Users can customize the clock appearance, including font size, color, and background.
+  Wake Lock: Utilizes the wake_lock plugin to prevent the device from sleeping while the app is open, ensuring continuous display of the clock.
 
-This project is a starting point for a Flutter application.
+## Installation
+  To use the Fliqlo Clock App, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+  Clone or download the repository from GitHub.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  Import the necessary packages in your Dart code:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+  Simply open the Fliqlo Clock App on your device, and the clock will start displaying the time in the Fliqlo style. 
+  Customize the appearance as desired from the settings menu.
+
+## Screenshots
+![pomodoro](https://github.com/Ankit180898/pomodoro/assets/48925155/1d7f44fa-b005-49f9-9ef1-1659a2f7df15)
+
